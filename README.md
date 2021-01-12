@@ -17,4 +17,4 @@
 
 ## 访客数量  
 
-<img align='right' src="https://profile-counter.glitch.me/wxyShine/count.svg" alt="访客数量"/>
+<img align='center' src="https://profile-counter.glitch.me/wxyShine/count.svg" alt="访客数量"/>
