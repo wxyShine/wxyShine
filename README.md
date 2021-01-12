@@ -13,3 +13,7 @@
 ## 统计
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=wxyShine&show_icons=true)
+
+
+
+<img align='right' src="https://profile-counter.glitch.me/wxyShine/count.svg" alt="访客数量"/>
