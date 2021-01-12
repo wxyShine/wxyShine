@@ -7,10 +7,9 @@
 
 
 ## 📊 本周编码时长
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-START_SECTION:waka
-END_SECTION:waka
-
-### Interesting stats
+### 统计
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=wxyShine&show_icons=true)
