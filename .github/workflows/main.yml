@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: wxyShine/wxyShine@waka
+      - uses: wxyShine/wxyShine@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
