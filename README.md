@@ -10,6 +10,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 统计
+## 统计
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=wxyShine&show_icons=true)
