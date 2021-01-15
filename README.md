@@ -5,14 +5,6 @@
 - 😆**数据库** MySQL, Oracle, Redis
 - 😝**框架** SpringBoot，Flask
 
-
-## 📊 本周编码时长
-<!--START_SECTION:waka-->
-```text
-Other   2 hrs 48 mins   █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
-
 ## 统计
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=wxyShine&show_icons=true)
