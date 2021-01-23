@@ -9,6 +9,10 @@
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=wxyShine&show_icons=true)
 
+## Language
+
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wxyShine)
+
 
 ## 访客数量  
 
