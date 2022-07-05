@@ -1,7 +1,7 @@
 <!--自定义Github主页-->
 
 - 😄**后端** Java，Python，Go
-- 😃**前端** HTML，CSS，JavaScript, Vue, JQuery,小程序
+- 😃**前端** HTML，CSS，JavaScript, Vue, JQuery,小程序，安卓
 - 😆**数据库** MySQL, Oracle, Redis
 - 😝**框架** SpringBoot，Flask，Gin
 
