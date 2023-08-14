@@ -2,7 +2,7 @@
 
 - 😄**后端** Java，Python，Go
 - 😃**前端** HTML，CSS，JavaScript,TypeScript, Vue, JQuery,小程序，安卓
-- 😆**数据库** MySQL, Oracle, Redis，DM
+- 😆**数据库** MySQL, Oracle, Redis，DM，H2,MongoDB
 - 😝**框架** SpringBoot，Flask，Gin
 
 ## 统计
