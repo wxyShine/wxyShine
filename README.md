@@ -13,7 +13,3 @@
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wxyShine)
 
-
-## 访客数量  
-
-<img align='center' src="https://profile-counter.glitch.me/wxyShine/count.svg" alt="访客数量"/>
